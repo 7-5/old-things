@@ -2,7 +2,7 @@
 
 these are my OLD projects. new ones are in their separate repositories.
 
-### old projects list
+## old projects list
 
 |project|my notes|
 |-|-|
@@ -18,7 +18,7 @@ these are my OLD projects. new ones are in their separate repositories.
 |primechecker|prime checker written in C. optimised, extremely verbose, first meaningful program i wrote after learning c, could be done better.|
 |webpkiller|kill the pesky .webp files and convert them into our glorious .png files in bulk. gpt written code. but small code. had to share because its universally useful.|
 
-### things i didnt include here, but are projects i did.
+## things i didnt include here, but are projects i did.
 
 |project|my notes|
 |-|-|
